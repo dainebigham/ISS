@@ -4,7 +4,7 @@ import smtplib
 import time
 
 EMAIL = 'testdaine@gmail.com'
-PASSWD = '@oYNRjN7Tgv@vZCv'
+PASSWD = ''
 
 # my current latitude and longitude
 LAT = -41.303580
